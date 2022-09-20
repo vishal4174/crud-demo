@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Shikhar Dhawan",
+      "username": "dhawansikhar",
+      "email": "dhawan@gmail.com",
+      "phone": "4569874563",
+      "id": 6
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "viratkohli",
+      "email": "viratkohli@gmail.com",
+      "phone": "8596589658",
+      "id": 7
+    },
+    {
+      "name": "Pankaj Tripathi",
+      "username": "pankajtripathi",
+      "email": "pankaj@gmail.com",
+      "phone": "9658965236",
+      "id": 8
+    },
+    {
+      "name": "Vishal",
+      "username": "prajapativishal",
+      "email": "user@gmail.com",
+      "phone": "563655535645",
+      "id": 9
+    },
+    {
+      "name": "Babur",
+      "username": "ajambabur",
+      "email": "kt@gmail.com",
+      "phone": "563655535645",
+      "id": 10
+    },
+    {
+      "name": "Vishal",
+      "username": "prapati",
+      "email": "vishal@gmail.com",
+      "phone": "9876543210",
+      "id": 11
+    }
+  ]
+}
